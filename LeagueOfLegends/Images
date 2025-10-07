@@ -1,0 +1,7 @@
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("ramananth/league-of-legends-champion-images")
+
+print("Path to dataset files:", path)
+
