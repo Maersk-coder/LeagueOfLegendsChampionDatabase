@@ -1,6 +1,6 @@
 # League of Legends stats UI
 A Streamlit-based user interface for exploring and visualizing League of Legends statistics.
-## Author ##: Thomas Mærsk
+## Author: Thomas Mærsk
 
 ## Installation
 Clone the repository and install the required dependencies:
